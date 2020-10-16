@@ -1,0 +1,7 @@
+﻿  Journal.cpp
+C:\Users\f-abd\source\repos\Journal\Journal\Journal.cpp(46,17): warning C4129: P: неизвестная escape-последовательность
+C:\Users\f-abd\source\repos\Journal\Journal\Journal.cpp(72,17): warning C4129: P: неизвестная escape-последовательность
+C:\Users\f-abd\source\repos\Journal\Journal\Journal.cpp(82,17): warning C4129: -: неизвестная escape-последовательность
+C:\Users\f-abd\source\repos\Journal\Journal\Journal.cpp(190,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Journal\Journal\Journal.cpp(198,30): warning C4018: <: несоответствие типов со знаком и без знака
+  Journal.vcxproj -> C:\Users\f-abd\source\repos\Journal\Debug\Journal.exe
